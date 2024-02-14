@@ -49,7 +49,7 @@ switch (random) {
 const uiData = {
     valentinesFirstName: 'Lori',
     valentinesLastName: 'Konkol',
-    headerMessage: 'Will you bee my Valentine? 🌹',
+    headerMessage: 'Will you bee my Valentine Sweet Wife? 🌹',
     resultHeaderYes: 'You said yes! 🏓<br>😍💚💜💚💕💜💚💜😘',
     resultHeaderNo: 'You said no 😢',
     yesImgLink: yes1,
